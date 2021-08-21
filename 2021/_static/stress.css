@@ -1,0 +1,33 @@
+h1 {
+  font-size:0%;
+}
+
+hr {
+  color:#404040;
+  background-color:#404040;
+  border-color:#404040; 
+}
+
+.row {
+  display: flex;
+}
+
+.column20 {
+  flex: 20%;
+}
+
+.column80 {
+  flex: 80%;
+}
+
+.column40 {
+  flex: 40%;
+}
+
+.column60 {
+  flex: 60%;
+}
+
+.wy-nav-content {
+  max-width: 100% !important;
+}

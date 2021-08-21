@@ -1,0 +1,95 @@
+.. toctree::
+   :hidden:
+
+   lectures
+   committee
+   schedule
+   series
+
+Home
+####
+
+.. include:: def-contact.rst
+
+.. raw:: html
+
+     <p>
+     <center>
+     <big><big><big>STRESS 2021 &#8212;
+     <small>6th International School on Tool-based Rigorous Engineering of
+            Software Systems</small></big></big></big>
+
+     <br/>
+
+     <big><big><a href="https://www.mitsishotels.com/hotels/alila/">Alila Resort &amp; Spa, Rhodes, Greece</a>, October 19 - 23, 2021 </big></big>
+     <br/>
+     </center>
+     </p>
+     
+     <p>
+     <center>
+     <big>Associated with the 
+     <a href="http://www.isola-conference.org/isola2021/">9th
+     International Symposium On Leveraging Applications of Formal Methods,
+     Verification, and Validation (ISoLA)</a></big>    
+     </center>
+     </p>
+     
+     <hr/>
+
+     <script src="_static/jquery.cycle2.js" ></script>
+
+     <div class="container-fluid">
+       <div class="row">
+         <div class="col-md-1">
+         </div>
+         <div class="col-md-10">
+             <div class = "cycle-slideshow">
+               <img width="100%" src="_static/alila1.png" />
+               <img width="100%" src="_static/alila2.png" />
+               <img width="100%" src="_static/alila3.png" />
+             </div>
+         </div>
+         <div class="col-md-1">
+         </div>
+       </div>
+     </div>
+
+     <hr/>
+
+The International School on Tool-based Rigorous Engineering of Software 
+Systems (STRESS) :ref:`series <series>` aims to provide top-quality lectures and
+innovative pedagogical material that provide young researchers with:
+ 
+* instruction in existing and emerging formal methods and software 
+  engineering techniques that are tool-supported and process-oriented,
+  
+* insights into how software is developed in the real world, including 
+  emphasis on domains such as safety/mission-critical software and
+  embedded systems where the development effort associated with tool-based
+  formal methods promises greatest returns,
+  
+* case-studies and example domains in which formal methods have been
+  successfully transitioned into actual development along with insights in
+  how to bridge the gap between research tools and actual development
+  processes, and
+  
+* additional pedagogical resources and personal contacts that they can
+  explore for the purpose of increasing the impact of their research.
+
+
+.. raw:: html
+
+   <hr/>
+
+In addition to STRESS 2021,
+the `ISoLA <http://www.isola-conference.org/isola2021/>`__ week
+offers a lot of opportunites besides the standard conference program,
+which addresses in particular also PhD students:
+
+* The RERS challenge provides an ideal opportunity to check one's own
+  verification competence. During the challenge you will meet world
+  leading experts in tool-based software verification.
+  http://www.rers-challenge.org
+  
+* The industrial day will give an impression of today's needs industry.

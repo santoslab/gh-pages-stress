@@ -1,0 +1,41 @@
+STRESS Series
+#############
+
+.. _series:
+
+STRESS Series
+*************
+
+.. include:: def-contact.rst
+
+----
+
+`6th <http://santos.cis.ksu.edu/STRESS/2021>`__,
+`Alila Resort & Spa <https://www.mitsishotels.com/hotels/alila/>`__, Rhodes, Greece, October 20 - 24, 2021.
+
+----
+
+`5th <http://santos.cis.ksu.edu/STRESS/2018>`__,
+`Royal Apollonia Beach Hotel <http://theroyalapollonia.com/>`__, Limassol, Cyprus, October 31 - November 4, 2018.
+
+----
+
+`4th <http://santos.cis.ksu.edu/STRESS/2016>`__,
+`Corfu Imperial <http://www.corfuimperial.com/>`__, Corfu, Greece, October 5 - 9, 2016.
+
+----
+
+`3rd: Software Specification, Verification, and Variation <http://santos.cis.ksu.edu/STRESS/2014>`__,
+`Corfu Imperial <http://www.corfuimperial.com/>`__, Corfu, Greece, October 3 - 7, 2014.
+
+----
+
+`2nd: Technologies, Tools, and Process Models <http://info.santoslab.org/event/stress2012>`__,
+`Amirandes <http://www.amirandes.com>`__, Crete, Greece, October 10 - 14, 2012.
+
+----
+
+`1st: Model-driven Development of Component-based Systems <http://santos.cis.ksu.edu/STRESS/2006/>`__,
+`Technical University of Dortmund <https://www.tu-dortmund.de/uni/International/index.html>`__, Dortmund, Germany, May 18 - 24, 2006.
+
+----

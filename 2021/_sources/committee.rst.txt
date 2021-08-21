@@ -1,0 +1,35 @@
+Organizing Committee
+####################
+
+Organizing Committee
+********************
+
+----
+
+`John Hatcliff <http://people.cis.ksu.edu/~hatcliff>`__, Kansas State University
+
+----
+
+`Tiziana Margaria <http://www.lero.ie/people/tizianamargaria>`__, LERO, The Irish Software Research Centre
+
+----
+
+`Robby <http://people.cis.ksu.edu/~robby>`__, Kansas State University
+
+----
+
+`Bernhard Steffen <http://ls5-www.cs.tu-dortmund.de/cms/de/mitarbeiter/prof/Bernhard_Steffen.html>`__, Technical University of Dortmund
+
+----
+
+.. raw:: html
+
+   <center><big>
+
+**Contact**: stress@santoslab.org
+
+
+.. raw:: html
+
+   </big></center>
+     

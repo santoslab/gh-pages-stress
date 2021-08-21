@@ -1,0 +1,64 @@
+Schedule
+########
+
+.. _schedule:
+
+Schedule
+********
+
+.. include:: def-contact.rst
+
+----
+
+.. list-table::
+   :widths: 3 10 10 10 10 10
+   :header-rows: 1
+
+   * -
+     - Tuesday, October 20
+     - Wednesday, October 21
+     - Thursday, October 22
+     - Friday, October 23
+     - Saturday, October 24
+   * - 09:00
+     -
+     - 
+     - 
+     - 
+     - 
+   * - 10:30
+     -
+     - Coffee Break
+     - Coffee Break
+     - Coffee Break
+     - Coffee Break
+   * - 11:00
+     -
+     - 
+     - 
+     - 
+     - 
+   * - 12:30
+     - Lunch Break
+     - Lunch Break
+     - Lunch Break
+     - Lunch Break
+     - Lunch Break
+   * - 14:30
+     - 
+     - 
+     - 
+     - 
+     -
+   * - 16:30
+     - Coffee Break
+     - Coffee Break
+     - Coffee Break
+     - Coffee Break
+     -
+   * - 17:00 - 18:30
+     - 
+     - 
+     - 
+     - 
+     -
