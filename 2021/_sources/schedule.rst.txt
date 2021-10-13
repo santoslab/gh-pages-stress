@@ -22,10 +22,10 @@ Schedule
      - Saturday, October 24
    * - 09:00
      -
-     - 
-     - 
-     - 
-     - 
+     - Model-DrivenDevOps
+     - Data Analytics with Pyrus
+     - The Integration Challenge and the End-to-End Digital Thread
+     - Keynote Mike Hinchey
    * - 10:30
      -
      - Coffee Break
@@ -34,10 +34,10 @@ Schedule
      - Coffee Break
    * - 11:00
      -
-     - 
-     - 
-     - 
-     - 
+     - Model-Driven DevOps Hands-on
+     - Pyrus Hands-on
+     - The Integration Challenge and the End-to-End Digital Thread
+     - Conclusions and Plans
    * - 12:30
      - Lunch Break
      - Lunch Break
@@ -45,20 +45,20 @@ Schedule
      - Lunch Break
      - Lunch Break
    * - 14:30
-     - 
-     - 
-     - 
-     - 
+     - DevOps: What it is all about
+     - DevXOps
+     - DevOps: Summary and Discussion
+     - Tutorial session with exercises and support to the student
      -
-   * - 16:30
+   * - 16:00
      - Coffee Break
      - Coffee Break
      - Coffee Break
      - Coffee Break
      -
-   * - 17:00 - 18:30
-     - 
-     - 
-     - 
-     - 
+   * - 16:30 - 17:30
+     - DevOps Hands-on
+     - DevOps Hands-on
+     - Asking Why
+     - Asking Why
      -
