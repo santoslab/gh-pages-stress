@@ -19,7 +19,7 @@ Lectures
 Model-Driven DevOps
 ===================
 
-Lecturers: `Bernhard Steffen <http://ls5-www.cs.tu-dortmund.de/cms/de/mitarbeiter/prof/Bernhard_Steffen.html>`__ (Technical University of Dortmund)
+Lecturers: `Bernhard Steffen <http://ls5-www.cs.tu-dortmund.de/cms/de/mitarbeiter/prof/Bernhard_Steffen.html>`__ (TU Dortmund University)
 
 .. raw:: html
 
@@ -65,7 +65,7 @@ The interactive, workshop-style presentation of the tools and concepts is meant 
 Pyrus: A Collaborative Tool for Data Analytics
 ==============================================
 
-Lecturers: `Bernhard Steffen <http://ls5-www.cs.tu-dortmund.de/cms/de/mitarbeiter/prof/Bernhard_Steffen.html>`__ (Technical University of Dortmund)
+Lecturers: `Bernhard Steffen <http://ls5-www.cs.tu-dortmund.de/cms/de/mitarbeiter/prof/Bernhard_Steffen.html>`__ (TU Dortmund University)
 
 .. raw:: html
 
