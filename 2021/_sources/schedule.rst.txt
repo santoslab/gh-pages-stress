@@ -22,7 +22,7 @@ Schedule
      - Saturday, October 24
    * - 09:00
      -
-     - Model-DrivenDevOps
+     - Model-Driven DevOps
      - Data Analytics with Pyrus
      - The Integration Challenge and the End-to-End Digital Thread
      - Keynote Mike Hinchey
@@ -58,7 +58,7 @@ Schedule
      -
    * - 16:30 - 17:30
      - DevOps Hands-on
-     - DevOps Hands-on
+     - DevXOps Hands-on
      - Asking Why
      - Asking Why
      -
